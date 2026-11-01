@@ -1,0 +1,13 @@
+INCA_libs/
+worklib/
+*.history
+*.log
+*.key
+*.dsn
+*.trn
+*.shm/
+*.vcd
+.simvision/
+xsim.dir/
+*.jou
+*.pb
